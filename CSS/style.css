@@ -13,7 +13,7 @@ body{
 } 
 #header{  
     height: 100vh;
-    background-image: url("/Tshot_Studios_Prosper_Wobo-removebg.png"); 
+    background-image: url('/images/Tshot_Studios_Prosper_Wobo-removebg.png'); 
     background-size: cover; 
     background-repeat: no-repeat;
     background-position: bottom -1000px right -300px;    
@@ -406,7 +406,7 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url("/Tshot_Studios_Prosper_Wobo-removebg.png");
+        background-image: url('/images/Tshot_Studios_Prosper_Wobo-removebg.png');
     }
     .header-text{
         margin-top: 100%;
